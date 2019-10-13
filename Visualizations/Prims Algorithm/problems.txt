@@ -1,0 +1,5 @@
+problem: ajax request fires multiple times inside prims_visualization.html
+solution: unsolved, moving to seperate js file fixed issue
+
+problem: tab replace not working in highlight.js
+solution: unsolved, manually replace tab characters with "&nbsp&nbsp"

@@ -1,0 +1,1010 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"concat"
+			],
+			[
+				"rect",
+				"rectGroup"
+			],
+			[
+				"objec",
+				"object1"
+			],
+			[
+				"class",
+				"classString"
+			],
+			[
+				"get",
+				"getById"
+			],
+			[
+				"clas",
+				"classString"
+			],
+			[
+				"action",
+				"action"
+			],
+			[
+				"color",
+				"colorScale"
+			],
+			[
+				"blo",
+				"blockHeight"
+			],
+			[
+				"actions",
+				"moreActions"
+			],
+			[
+				"init",
+				"initInterface"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"serv",
+				"serverDomain"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"rando",
+				"randomPort"
+			],
+			[
+				"view",
+				"viewLink"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"box",
+				"eBoxHeight"
+			],
+			[
+				"ebox",
+				"eBoxHeight"
+			],
+			[
+				"mar",
+				"marginX"
+			],
+			[
+				"eOff",
+				"eOffsetY"
+			],
+			[
+				"eBox",
+				"eBoxData"
+			],
+			[
+				"enode",
+				"enodeY"
+			],
+			[
+				"eoff",
+				"eOffsetY"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"eno",
+				"eNodes"
+			],
+			[
+				"trans",
+				"transitionTime"
+			],
+			[
+				"tran",
+				"transitionTime"
+			],
+			[
+				"para",
+				"parentData"
+			],
+			[
+				"eN",
+				"eNodeGroup"
+			],
+			[
+				"par",
+				"parentData"
+			],
+			[
+				"nod",
+				"nodes"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"quiz",
+				"quizes"
+			],
+			[
+				"curr",
+				"currentQuiz"
+			],
+			[
+				"answers",
+				"answersJSON"
+			],
+			[
+				"ans",
+				"answersObjet"
+			],
+			[
+				"answer",
+				"answersJSON"
+			],
+			[
+				"answ",
+				"answerString"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"image",
+				"imagecount"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ins",
+				"insertAmount"
+			],
+			[
+				"text",
+				"text-top"
+			],
+			[
+				"tr",
+				"treeTransition"
+			],
+			[
+				"update",
+				"updateTime"
+			],
+			[
+				"tra",
+				"transitionTime"
+			],
+			[
+				"upda",
+				"updateTime"
+			],
+			[
+				"transi",
+				"transition"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"obje",
+				"objectArray"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"selec",
+				"selectAll"
+			],
+			[
+				"ob",
+				"objectArray"
+			],
+			[
+				"object",
+				"objectArray"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"pr",
+				"printPage"
+			],
+			[
+				"page",
+				"pageList"
+			],
+			[
+				"input",
+				"inputData"
+			],
+			[
+				"data",
+				"dataObject"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"encod",
+				"encodeHiddenData"
+			],
+			[
+				"a",
+				"ajaxPost"
+			],
+			[
+				"node",
+				"nodeGroup"
+			],
+			[
+				"delete",
+				"deleteNode"
+			],
+			[
+				"no",
+				"nodeGroup"
+			],
+			[
+				"leng",
+				"length-1"
+			],
+			[
+				"tree",
+				"treeTransition"
+			],
+			[
+				"pow",
+				"powSize"
+			],
+			[
+				"push",
+				"pushNode"
+			],
+			[
+				"loca",
+				"location2"
+			],
+			[
+				"ani",
+				"animation"
+			],
+			[
+				"new",
+				"newGroups"
+			],
+			[
+				"SWAP",
+				"swapData"
+			],
+			[
+				"swap",
+				"swapData"
+			],
+			[
+				"dx",
+				"dxString"
+			],
+			[
+				"child",
+				"childrenNodes"
+			],
+			[
+				"chi",
+				"childrenIds"
+			],
+			[
+				"nodD",
+				"nodeDataOrdered"
+			],
+			[
+				"chil",
+				"childrenIds"
+			],
+			[
+				"val",
+				"valueRange"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"max",
+				"maxHeapify"
+			],
+			[
+				"lo",
+				"location2"
+			],
+			[
+				"eval",
+				"evaluateI"
+			],
+			[
+				"lay",
+				"layoutRoot"
+			],
+			[
+				"ea",
+				"easeFunction"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ti",
+				"transitionTime"
+			],
+			[
+				"g1",
+				"g1Transform"
+			],
+			[
+				"la",
+				"layoutRoot"
+			],
+			[
+				"gr",
+				"group2"
+			],
+			[
+				"group",
+				"group1"
+			],
+			[
+				"gro",
+				"group1"
+			],
+			[
+				"circle",
+				"circleData"
+			],
+			[
+				"cir",
+				"circeData"
+			],
+			[
+				"line",
+				"lineData"
+			],
+			[
+				"final",
+				"finalX"
+			],
+			[
+				"error",
+				"errorOutput"
+			],
+			[
+				"h",
+				"has_key"
+			],
+			[
+				"q",
+				"questionOption"
+			],
+			[
+				"qu",
+				"quiz2"
+			],
+			[
+				"sp",
+				"splitAnswersArray"
+			],
+			[
+				"en",
+				"encodeData"
+			],
+			[
+				"quiz1",
+				"quiz1Q1"
+			],
+			[
+				"another",
+				"anotherHtml"
+			],
+			[
+				"ra",
+				"rawData"
+			],
+			[
+				"myS",
+				"mySquare2"
+			],
+			[
+				"gen",
+				"generator1"
+			],
+			[
+				"my",
+				"myInterpolateNumber"
+			],
+			[
+				"m",
+				"myInterpolateRound"
+			],
+			[
+				"int",
+				"interpolater"
+			],
+			[
+				"i",
+				"interpolate"
+			],
+			[
+				"add",
+				"addData"
+			],
+			[
+				"eva",
+				"evaluateExpression"
+			],
+			[
+				"spl",
+				"splitExpression"
+			],
+			[
+				"an",
+				"anExpression"
+			],
+			[
+				"ex",
+				"exchange"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: AppKit"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"under",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"toggle",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 228.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Merge Sort/merge_sort_visedit.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Merge Sort/merge_sort_visualization.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Merge Sort/merge_sort_visualization.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Merge Sort/style.css",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/write-up.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Libraries/string_format.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Merge Sort/merge_sort.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Binary Search/binary_sort_visualization.html",
+		"/Users/andybaumgartner/Documents/School/Intro to AI/hw4/HW3GameTree/dist/README.TXT",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/style.css",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims_visedit.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims_visualization.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/bones.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/graph_generator.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/graphGenerator.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/visualization.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims_test.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Prims Algorithm/prims.sublime-project",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Libraries/priority_queue.js",
+		"/Users/andybaumgartner/Desktop/merge_sort.js",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw13/usernames.txt",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw13/test_input_2.js",
+		"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/4223d2f1-a5de-42d6-a1b2-60388dc78626/home/baum0418/.www/hw12/page.php",
+		"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/4223d2f1-a5de-42d6-a1b2-60388dc78626/home/baum0418/.www/hw12/hw12.php",
+		"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/4223d2f1-a5de-42d6-a1b2-60388dc78626/home/baum0418/.www/hw12/quiz.js",
+		"/Applications/MAMP/htdocs/hw10/index.php",
+		"/Users/andybaumgartner/Desktop/Query.html",
+		"/Users/andybaumgartner/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/hw12/test.php",
+		"/Users/andybaumgartner/Documents/Programming/Khan Academy/ordering_decimals.html symlink",
+		"/Users/andybaumgartner/Documents/School/Stats 3021/scipy_template.py",
+		"/Users/andybaumgartner/Documents/Programming/Khan Academy/khan-exercises/exercises/ordering_decimals.html",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/site/config/config.andybaumgartner.com.php",
+		"/Users/andybaumgartner/Documents/School/Intro to AI/rough draft/hw1_Baumgartner_Andrew.tex",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/site/templates/default.php",
+		"/Applications/MAMP/htdocs/hw10/php_test.php",
+		"/Applications/MAMP/htdocs/hw10/answer.rb",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/site/config/config.php",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/assets/javascript/FlexSlider/flexslider.css",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/assets/javascript/fixed-navigation.js",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/assets/styles/flexslider.css",
+		"/Users/andybaumgartner/Documents/Web Design/Portfolio 2012/kirby/site/snippets/head.php",
+		"/Applications/MAMP/cgi-bin/hw8/quiz.html",
+		"/Applications/MAMP/cgi-bin/hw8/quiz.cgi",
+		"/Users/andybaumgartner/Desktop/testJSON.html",
+		"/Applications/MAMP/cgi-bin/hw8/cgitest.cgi",
+		"/Applications/MAMP/cgi-bin/hw8/html/quizSelection.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/quiz.js",
+		"/Applications/MAMP/cgi-bin/hw8/ajax_test.js",
+		"/Applications/MAMP/cgi-bin/hw8/html/quizAnswer.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/answers.txt",
+		"/Applications/MAMP/cgi-bin/hw8/html/answers.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/quiz2.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/quiz1.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/start.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/quiz3.html",
+		"/Applications/MAMP/cgi-bin/hw8/html/blockSubmission.js",
+		"/Applications/MAMP/cgi-bin/hw8/html/quiz1.js",
+		"/Applications/MAMP/htdocs/ajax test/ajax_html.html",
+		"/Applications/MAMP/htdocs/ajax test/test.txt",
+		"/Applications/MAMP/cgi-bin/hw8/html/start.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/priority_queue_visedit.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/priority_queue_visualization.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/style.css",
+		"/Users/andybaumgartner/test.txt",
+		"/Users/andybaumgartner/Documents/programing2/computer team/general info/Movies/links.txt",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Examples:Tests/Dynamic tree/dynamic_tree.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/todo.txt",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/priority_queue_visualization.js",
+		"/Users/andybaumgartner/Documents/School/Intro to AI/notes/search2",
+		"/Users/andybaumgartner/Documents/torrents/Parks.and.Recreation.S05E02.HDTV.x264-LOL.mp4",
+		"/Users/andybaumgartner/Documents/torrents/Parks.and.Recreation.S04E19.Live.Ammo.HDTV.XviD-FQM.avi",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/Visualizations/Priority queue/priority_queue.js",
+		"/Users/andybaumgartner/Documents/School/Intro to AI/homework 2/submit/domain.pddl",
+		"/Applications/MAMP/cgi-bin/hw7/hw7.cgi",
+		"/Applications/MAMP/cgi-bin/hw7/start.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/visualization/style.css",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples:tests/interpolater_tester/interpolater_test.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples:tests/interpolater_tester/interpolater_test.js",
+		"/Applications/MAMP/cgi-bin/hw7/error.txt",
+		"/Applications/MAMP/cgi-bin/hw7/todo.txt",
+		"/Applications/MAMP/cgi-bin/hw7/test.cgi",
+		"/Applications/MAMP/cgi-bin/hw7/quit.html",
+		"/Applications/MAMP/cgi-bin/hw7/answers.txt",
+		"/Applications/MAMP/cgi-bin/hw7/answers.html",
+		"/Applications/MAMP/cgi-bin/hw7/quiz2.html",
+		"/Applications/MAMP/cgi-bin/hw7/quiz1.html",
+		"/Applications/MAMP/cgi-bin/hw7/parse_answers.rb",
+		"/Applications/MAMP/cgi-bin/hw7/quiz3.html",
+		"/Applications/MAMP/cgi-bin/hw7/Choose.html",
+		"/Applications/MAMP/cgi-bin/hw7/quizSelection.html",
+		"/Applications/MAMP/cgi-bin/hw7/another.html",
+		"/Applications/MAMP/cgi-bin/hw7/quizAnswer.html",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw6/hw6.cgi",
+		"/Applications/MAMP/cgi-bin/hw7/form1.html",
+		"/Applications/MAMP/cgi-bin/hw7/form5.html",
+		"/Applications/MAMP/cgi-bin/hw7/form3.html",
+		"/Applications/MAMP/cgi-bin/hw7/form4.html",
+		"/Applications/MAMP/cgi-bin/hw7/form2.html",
+		"/Applications/MAMP/cgi-bin/hw7/test_server.cgi",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw7/test_python.cgi",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw7/test_server.cgi",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples/transition/transition_test.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples/transition/transition_test.js",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw7/test_server.rb",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples/transition/tween_test.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/visualization/priority_queue_visualization.js",
+		"/Volumes/disk1s5/efi/refit/refit.conf",
+		"/Volumes/efi/efi/refit/refit.efi",
+		"/Volumes/disk1s5/efi/refit/enable.sh",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/examples/transition/d3.v3.min.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/visualization/priority_queue_visualization.html",
+		"/Users/andybaumgartner/Downloads/eigen-eigen-5097c01bcdc4/INSTALL",
+		"/Users/andybaumgartner/Documents/Programming/Freecad/freecad/CMakeCache.txt",
+		"/Users/andybaumgartner/Downloads/Pivy-0.3.0 2/README",
+		"/Users/andybaumgartner/Desktop/swig-2.0.9/README",
+		"/Users/andybaumgartner/Desktop/Pivy-0.3.0/README",
+		"/Users/andybaumgartner/Documents/Programming/Freecad/FreeCAD 2.app/Contents/MacOS/pivy/sogui.py",
+		"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/4223d2f1-a5de-42d6-a1b2-60388dc78626/home/baum0418/.www/hw6.cgi",
+		"/Users/andybaumgartner/Downloads/Baumgartner_Andy_hw6_Internet_Programming/hw6.cgi",
+		"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/4223d2f1-a5de-42d6-a1b2-60388dc78626/home/baum0418/.www/bash.cgi",
+		"/Users/andybaumgartner/Documents/School/Internet Programming/hw6/questions.txt",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/priority_queue/todo.txt",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/priority_queue/priority_queue_visualization.html",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/priority_queue/priority_queue_visualization.js",
+		"/Users/andybaumgartner/Documents/Web Design/Algorithm Visualizations/priority queue/priority_queue/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"selection",
+			"",
+			"graph.json",
+			"/Users/andybaumgartner/Downloads/html",
+			"/html",
+			"main.cpp",
+			"",
+			"current file",
+			"file",
+			"this file",
+			"script.coffee",
+			"current file",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console",
+			"getB",
+			"split",
+			"button",
+			"console",
+			"transitionTime",
+			"updateTime",
+			"compare",
+			"split",
+			"moreac",
+			"update",
+			"split",
+			"start",
+			"r",
+			"animate",
+			"clear",
+			"animate",
+			"moreactions",
+			"currentAction",
+			"actions",
+			"animate",
+			"animation",
+			"newGraph",
+			"start",
+			"clear",
+			"linkl",
+			"next",
+			"animation.length",
+			"animate",
+			"animation",
+			"]);\n",
+			"linkl",
+			"push",
+			"restart",
+			"draw",
+			"console",
+			"for",
+			"for(",
+			"5",
+			"key",
+			"console",
+			"console.",
+			"extract",
+			"random",
+			"console",
+			"write",
+			"console",
+			"clear",
+			"message",
+			"deleteNode",
+			"respond",
+			"rpad",
+			"number",
+			"numberde",
+			"number",
+			"fraction",
+			"string",
+			"NUMS_TEX_COLOR",
+			"color",
+			"ds",
+			"problem",
+			"addM",
+			"NUMS_SORT_TEX",
+			"create",
+			"DENOMS_TEX_COLOR",
+			"ds",
+			"DENOMS_TEX_COLOR",
+			"next",
+			"view",
+			"rgb",
+			"h1",
+			"thumb",
+			"view",
+			"animate",
+			"$",
+			"text",
+			"color",
+			"marked",
+			"text",
+			"return",
+			"interface",
+			"enodeSum",
+			"enodeS",
+			"enode",
+			"enodeScale",
+			"enodeSum",
+			"enodeScale",
+			"enodeSum",
+			"enodeScale",
+			"animate",
+			"refresh",
+			"animate",
+			"refresh",
+			"opacity",
+			"refresh",
+			"interfa",
+			"init",
+			"conso",
+			"this",
+			"parent",
+			"interface",
+			"refresh",
+			"print",
+			"echo",
+			"print",
+			"echo",
+			"picture",
+			"frame",
+			"hidden",
+			"vimeo",
+			".flexslider .slides img",
+			".flexslider .slides img ",
+			"65",
+			"none",
+			"font",
+			"header",
+			"background",
+			"control",
+			"flex",
+			"margin",
+			"padding",
+			"margin",
+			"h1",
+			"line",
+			"em",
+			"60%",
+			".img",
+			"portfolio-list"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			",",
+			"",
+			"y2",
+			"x2",
+			",",
+			" ",
+			"$cgi",
+			"$data",
+			"/Users/andybaumgartner/Documents/Programming/Freecad/FreeCAD.app/",
+			"text",
+			"rgba(255,255,255,50)",
+			"#fff",
+			"to_promote",
+			"to_modify",
+			"sleep",
+			"Infinity",
+			"\"",
+			"",
+			"Median"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.scope_viewer":
+	{
+		"height": 280.0
+	},
+	"output.sftp":
+	{
+		"height": 128.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ro",
+				"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/540a3d61-efb6-4b90-9bae-1c791483cb97/home/baum0418/3081/group/F12C3081-20/project/trunk/src/project/iteration1/robot.h"
+			],
+			[
+				"mrobot",
+				"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/540a3d61-efb6-4b90-9bae-1c791483cb97/home/baum0418/3081/group/F12C3081-20/project/trunk/src/project/iteration1/robot.cpp"
+			],
+			[
+				"test.sh",
+				"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/540a3d61-efb6-4b90-9bae-1c791483cb97/home/baum0418/3081/group/F12C3081-20/project/trunk/src/project/iteration1/test.sh"
+			],
+			[
+				"",
+				"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/540a3d61-efb6-4b90-9bae-1c791483cb97/home/baum0418/3081/group/F12C3081-20/project/trunk/src/project/iteration1/robot.cpp"
+			],
+			[
+				"robot.h",
+				"/private/var/folders/wl/8qt6g3111vz_8gmrh24kfzkm0000gn/T/540a3d61-efb6-4b90-9bae-1c791483cb97/home/baum0418/3081/group/F12C3081-20/project/trunk/src/project/iteration1/robot.h"
+			],
+			[
+				"script",
+				"script.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

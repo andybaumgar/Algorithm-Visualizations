@@ -1,0 +1,136 @@
+body, html{
+  padding:0;
+  margin:0;
+  text-rendering: geometricPrecision;
+}
+
+body{
+  border-top:solid;
+  border-width: 10px;
+  /*border-color: rgb(255,249,150);*/
+  border-color: rgb(131,214,255);
+}
+body{
+  text-align:center;
+  font-family:"Helvetica",Arial,Sans-Serif;
+  width:100%;
+}
+h1{
+  padding-top:.5em;
+  color:rgb(255,112,112);
+}
+h2{
+  padding-top:0em;
+  margin:0em;
+  color:rgb(5,179,255);
+  font-size:8em;
+}
+p{
+  font-size:1.5em;
+  font-style:italic;
+}
+.solid line{
+  stroke: #ccc;
+}
+.dotted line{
+  stroke:red;
+  stroke:#5BB0E2;
+  stroke: #ccc;
+}
+.minimum line{
+  stroke:red;
+}
+text.shadow {
+  stroke: #fff;
+  stroke-width: 3px;
+  stroke-opacity: .8;
+}
+marker#suit {
+  fill: #FFA600;
+}
+text{
+    stroke:none;
+    font-weight:lighter;
+}
+.q1-9 rect{ fill:rgb(222,235,247); }
+.q2-9 rect{ fill:rgb(198,219,239); }
+.q3-9 rect{ fill:rgb(158,202,225); }
+.q4-9 rect{ fill:rgb(107,174,214); }
+.q5-9 rect{ fill:rgb(66,146,198); }
+.q6-9 rect{ fill:rgb(33,113,181); }
+.q7-9 rect{ fill:rgb(8,81,156); }
+.q8-9 rect{ fill:rgb(8,48,107); }
+.q1-9 text{ fill:rgb(8,48,107); }
+.q2-9 text{ fill:rgb(8,48,107); }
+.q3-9 text{ fill:rgb(8,48,107); }
+.q4-9 text{ fill:rgb(8,48,107); }
+.q5-9 text{ fill:#FFF; }
+.q6-9 text{ fill:#FFF; }
+.q7-9 text{ fill:#FFF; }
+.q8-9 text{ fill:#FFF; }
+.button{
+  display:inline-block;
+  padding:.5em 1em .5em 1em;
+  border-radius:5px;
+  background:rgb(107,174,214);
+  color:white;
+}
+.button, #insert-container{
+  margin: 0 .3em;
+}
+#insert-container .button{
+  margin:0;
+}
+#button-container{
+  margin-top:3em;
+}
+@-moz-document url-prefix() {
+    #insert-text {
+        width:5.3em;
+    }
+}
+.final{
+  background:#64D415;
+  background:#82E000;
+  background: #A53B4A;
+}
+.utility{
+  background: #FABD3A;
+  background: rgb(255,112,112);
+  background:#444;
+}
+.clear{
+  background:gray;
+}
+.action{
+  background: #76D736;
+  background: #A8FF60;
+  background: #9BF53C;
+  border-color:#76D736;
+  border-width:2px; 
+}
+.dotted-box{
+  stroke:none;
+  fill:#F8F8F8;
+}
+.eText{
+  font-style:italic;
+  font-weight: lighter;
+  fill:#333;
+}
+.extract circle{
+  fill:rgb(131,214,255);
+}
+.evaluate circle{
+  fill:rgb(255,249,150);
+}
+.change-key circle{
+  fill:gold;
+}
+.finish-extract circle{
+  fill:black;
+}
+.compare rect{
+  stroke-width:5;
+  stroke:#FFDD15;
+}

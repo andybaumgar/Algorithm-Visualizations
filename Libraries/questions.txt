@@ -1,0 +1,4 @@
+questions
+
+is this a good way to implement?  Too cluttered?
+is it ok to throw errors without catching? (for the programmer to see)

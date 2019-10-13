@@ -1,0 +1,138 @@
+text{
+    stroke:none;
+    font-weight:lighter;
+}
+body, html{
+  padding:0;
+  margin:0;
+  text-rendering: geometricPrecision;
+}
+
+body{
+  border-top:solid;
+  border-width: 10px;
+  border-color: rgb(131,214,255);
+
+}
+body{
+  text-align:center;
+  font-family:"Helvetica",Arial,Sans-Serif;
+  width:100%;
+}
+h1{
+  padding-top:.5em;
+  color:rgb(255,112,112);
+}
+h2{
+  padding-top:0em;
+  margin:0em;
+  color:rgb(5,179,255);
+  font-size:8em;
+}
+p{
+  font-size:1.5em;
+  font-style:italic;
+}
+svg{
+  margin-bottom: -10px;
+}
+.q0-9 circle{ 
+  fill:rgb(247,251,255); 
+  stroke:#EEE;
+  stroke-width:3px;
+}
+
+.q1-9 circle { fill:rgb(222,235,247); }
+.q2-9 circle{ fill:rgb(198,219,239); }
+.q3-9 circle{ fill:rgb(158,202,225); }
+.q4-9 circle{ fill:rgb(107,174,214); }
+.q5-9 circle{ fill:rgb(66,146,198); }
+.q6-9 circle{ fill:rgb(33,113,181); }
+.q7-9 circle{ fill:rgb(8,81,156); }
+.q8-9 circle{ fill:rgb(8,48,107); }
+
+.q1-9 text { fill:rgb(8,48,107); }
+.q2-9 text{ fill:rgb(8,48,107); }
+.q3-9 text{ fill:rgb(8,48,107); }
+.q4-9 text{ fill:rgb(8,48,107); }
+.q5-9 text{ fill:#FFF; }
+.q6-9 text{ fill:#FFF; }
+.q7-9 text{ fill:#FFF; }
+.q8-9 text{ fill:#FFF; }
+
+#marked{
+  fill:#97FF4A;
+}
+
+.button{
+  display:inline-block;
+  padding:.5em 1em .5em 1em;
+  border-radius:5px;
+  background:rgb(107,174,214);
+  /*background:#A34EFF;*/
+  color:white;
+}
+
+.button, #insert-container{
+  margin: 0 .3em;
+}
+
+#insert-container .button{
+  margin:0;
+}
+
+#insert-text{
+  display:block;
+  width:6em;
+  text-align: center;
+  height:4em;
+  margin:0px auto;
+  border:none;
+  padding-top:15px; 
+  padding-bottom:5px; 
+  border-radius: 0px 5px 5px;
+  background:#EEE;
+  background:#F4F4F4;
+  resize: none;
+}
+
+@-moz-document url-prefix() {
+    #insert-text {
+        width:5.3em;
+    }
+}
+
+
+#insert-text:focus {
+  outline: none; 
+  box-shadow: none;
+  background: #EEE;
+}
+
+#insert-container{
+  vertical-align: top;
+  width:auto;
+  display:inline-block;
+  text-align: center;
+}
+
+.final{
+  background:#64D415;
+  background:#82E000;
+  background: #A53B4A;
+}
+
+.utility{
+  background: #FABD3A;
+  background: rgb(255,112,112);
+}
+
+.dotted-box{
+  stroke:none;
+  fill:#F8F8F8;
+}
+.eText{
+  font-style:italic;
+  font-weight: lighter;
+  fill:#333;
+}

@@ -1,0 +1,8 @@
+✓ style visualization more
+1/2✓ make sure code hilighting corisponds to correct state
+make sure program which appears on page is a clean as it can be
+
+
+----------------------------------------------------------------------------------------------------
+
+create plugin that displays information bubbles under items and goes to the top to hide after the first action
